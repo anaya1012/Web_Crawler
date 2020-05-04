@@ -1,2 +1,2 @@
 # Web_Crawler
-Implementation of Web crawler adn Web Indexing
+Implementation of Web crawler and Web Indexing
